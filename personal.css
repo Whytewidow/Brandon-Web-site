@@ -36,7 +36,7 @@ li{
     justify-content: center;
     text-align:center;
     flex-direction: column;
-    border:2px;
+    border:3px;
     border-style:solid;
     background-color: rgb(6, 156, 106);
 }
