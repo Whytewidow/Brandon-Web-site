@@ -1,10 +1,42 @@
 h1{
     display:flex;
     justify-content: center;
+    color:rgb(0, 255, 255)
+    
 }
 .one{
     display:block;
     margin-left:auto;
     margin-right:auto;
     width:50%;
+}
+.two{
+    display:grid;
+    background-color: rgb(6, 156, 106);
+    height:400px;
+    width:1000px;
+    padding:5px;
+    align-items: center;
+}
+body{
+    background-color: rgb(65, 3, 56);
+}
+p{
+    color:gold;
+    font-size:35px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+li{
+    color:gold;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+.three{
+    display:flex;
+    justify-content: center;
+    text-align:center;
+    flex-direction: column;
+    border:2px;
+    border-style:solid;
+    background-color: rgb(6, 156, 106);
 }
