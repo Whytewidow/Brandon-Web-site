@@ -30,7 +30,7 @@ li{
     color:gold;
     font-family: 'Victor Mono', monospace;
     font-size: 30px;
-    list-style: inside;
+   
 }
 .three{
     display:flex;
@@ -40,4 +40,11 @@ li{
     border:3px;
     border-style:solid;
     background-color: rgb(6, 156, 106);
+}
+.five{
+    text-align: center;
+}
+.six{
+    display:inline-block;
+    text-align: center;
 }

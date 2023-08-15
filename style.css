@@ -40,3 +40,6 @@ li{
     border-style:solid;
     background-color: rgb(6, 156, 106);
 }
+.six li{
+    list-style-position: inside;
+}
